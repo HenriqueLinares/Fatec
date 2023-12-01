@@ -23,7 +23,7 @@ public class Funcionarios {
         return salarioBase;
     }
 
-    public Funcionario(String nome, double salarioBase, int numFilhos) {
+    public Funcionarios(String nome, double salarioBase, int numFilhos) {
         this.nome = nome;
         this.salarioBase = salarioBase;
         this.numFilhos = numFilhos;
